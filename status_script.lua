@@ -1,3 +1,4 @@
 Status = {
-  Online, 
+  Script = "Active", 
+  Database = " Active", 
 }
